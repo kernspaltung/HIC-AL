@@ -1,4 +1,4 @@
-- Urgent Information: Calls to Solidarity, Urgent Action Appeals , Violation Records
+- Urgent Information: Alerts, Urgent Action Appeals , Violation Records
 - Members' Activity
 - Featured Content
 - HIC Network
