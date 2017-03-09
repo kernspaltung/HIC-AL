@@ -1,11 +1,11 @@
-- Urgent Information: Calls to Solidarity, Urgent Action Appeals , Violation Records / Información Urgente: LLamados a la Solidaridad, Llamados a Acción Urgente, Registros de Violaciones
-- Members' Activity / Actividad de Miembros
-- HIC-AL Featured Content / Contenido Destacado HIC-AL
-- Brief Introduction to HIC Network
-   - Brief Introduction ti concept of Habitat / Breve Introducción al Concepto de Hábitat
+- Urgent Information: Calls to Solidarity, Urgent Action Appeals , Violation Records
+- Members' Activity
+- Featured Content
+- HIC Network
+   - Brief Introduction to concept of Habitat
 - Featured News
-- Recent Activities / Actividades Recientes
-- Upcoming Events / Eventos próximos
-- Visual Menu with Links to main site sections / Menú visual con enlaces a las principales secciones del sitio
-- Featured Media / Medios Destacados
+- Recent Activities
+- Upcoming Events
+- Visual Menu with Links to main site sections
+- Featured Media
 - Academia
