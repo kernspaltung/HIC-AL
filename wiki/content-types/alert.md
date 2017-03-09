@@ -1,4 +1,4 @@
-# Call to Solidarity
+# Alert
 
 Event or Campaign that needs public participation, and which uses the Web Platform as a central space for sharing information and facilitating social media engagement.
 
