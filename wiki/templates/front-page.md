@@ -20,8 +20,18 @@
 
 
 - #### Calendar
-   - Recent Activities
+   - Recent Events
+      - List of Recent Events         
    - Upcoming Events
+      - Featured Upcoming Event
+      - Scrollable List
+   - Each Event Listing has:
+      - Image
+      - Title
+      - Date
+      - Brief introductory text
+      - "View More" Link
+   - View Calendar Link
 
 - #### Members' Area
    - Sign-up / Login invitation
@@ -66,9 +76,16 @@
    - Introduction to HIC AL
       - Image
       - 1 paragraph
-      - Links to main website Sections
+      - Visual Menu with internal Links:
+         - Main Website Sections
+         - Thematic Areas
+            - Image
+            - Title
+            - 1 explanatory sentence
+
 
 - #### Recent News
+
    - List of up to 6 recent News Items:
       - Title
       - Date
@@ -77,14 +94,6 @@
       - Region
       - Categories
       - "View More" Link
-
-- #### Visual Menu with Links to main site sections
-   - Main Website Sections
-   - Thematic Areas
-      - Image
-      - Title
-      - 1 explanatory sentence
-
 
 - #### Academia
    - Introductory Text

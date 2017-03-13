@@ -26,3 +26,5 @@
 - Member
 - [Event](../blob/master/wiki/content-types/event.md)
 - [Media Item](../blob/master/wiki/content-types/media-item.md)
+- Course
+- HICipedia term
