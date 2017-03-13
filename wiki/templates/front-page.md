@@ -1,6 +1,7 @@
 # Front Page Template Description
 
 ### Index:
+- Cover
 - Solidarity
 - Featured Content Areas
 - Calendar
@@ -9,6 +10,11 @@
 - Recent News
 - Academia
 
+
+- #### Cover
+   - Background Image
+   - HIC-AL name & logo
+   - 1 introductory sentence
 
 - #### Solidarity:
 Alerts, Urgent Action Appeals , Violation Records
