@@ -43,13 +43,26 @@
 
 - #### HIC Network
    - Brief Introduction to concept of Habitat
+      - Title
+      - Subtitle
       - Image
       - 2 paragraphs
    - Introduction to HIC Global Net
+      - Title
       - Image
       - Link
       - 1 paragraph
       - List of Main Links
+   - Popular Struggles
+      - Title
+      - Image
+      - Link
+      - 1 sentence
+   - Public Policies
+      - Title
+      - Image
+      - Link
+      - 1 sentence
    - Introduction to HIC AL
       - Image
       - 1 paragraph
@@ -72,9 +85,16 @@
       - Title
       - 1 explanatory sentence
 
-- #### Featured Media
-   - Slider with Recent / Featured Media Items
 
 - #### Academia
    - Introductory Text
    - List of related upcoming Events
+      - Library
+         - Slider with latest Publications         
+         - Link Button
+      - Courses and Programs
+      - Featured Media
+         - Slider with Recent or Featured Media Items
+      - HICipedia:
+         - 1 Introductory paragraph
+         - Link Button
