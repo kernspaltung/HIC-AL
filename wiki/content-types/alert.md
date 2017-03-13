@@ -1,5 +1,7 @@
 # Alert
 
+**Inherits: [Urgent Information Item](../urgent-information-item.md)**
+
 Event or Campaign that needs public participation, and which uses the Web Platform as a central space for sharing information and facilitating social media engagement.
 
 It serves as a tool for coordinatoin: Members launching a Call for Solidarity will be able to specify what they need, and which information is relevant to share.
