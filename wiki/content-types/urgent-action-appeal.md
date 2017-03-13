@@ -1,6 +1,6 @@
 # Urgent Action Appeal
 
-**Inherits: [Urgent Information Item](../blob/master/wiki/content-types/urgent-information-item.md)**
+**Inherits: [Solidarity Content](../blob/master/wiki/content-types/solidarity-content.md)**
 
 Letters or documents, properly documented, which detail and quantify a Violation and openly ask for Governments to respond.
 

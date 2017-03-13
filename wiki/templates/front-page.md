@@ -1,8 +1,30 @@
-- #### Urgent Information: Alerts, Urgent Action Appeals , Violation Records
-   - Most recent / Featured Urgent Information Item
-   - An expandable Grid with all active Urgent Information Items.
+# Front Page Template Description
+
+### Index:
+- Solidarity
+- Featured Content Areas
+- Calendar
+- Members' Area
+- HIC Network
+- Recent News
+- Academia
+
+
+- #### Solidarity:
+Alerts, Urgent Action Appeals , Violation Records
+   - Most recent / Featured Solidarity Content
+   - An expandable Grid with all active Solidarity Contents.
+   - Each displayed Solidarity Content has:
+      - Title
+      - Image
+      - End and/or Start Dates
+      - Short Description
+      - HIC-AL Member Name
+      - Region (_Name of City, Country_)
+      - "View More" Link
+
 - #### Featured Content Areas
-   - Three Areas for placing Featured Content (any Content Type can be placed here). If there are no Featured Contents (or not enough), the platform will select up to 3 recent Content Items from all the Platform
+   - Three Areas for placing Featured Content (any Content Type inside the Platform can be placed here). If there are no Featured Contents (or not enough), the platform will select up to 3 recent Content Items from all the Platform
       - 1 Main Content Item
       - 2 Secondary Content Items
       - Each Content Item has:
@@ -60,22 +82,23 @@
    - Introduction to HIC Global Net
       - Title
       - Image
-      - Link
+      - "View More" Link
       - 1 paragraph
       - List of Main Links
    - Popular Struggles
       - Title
       - Image
-      - Link
+      - "View More" Link
       - 1 sentence
    - Public Policies
       - Title
       - Image
-      - Link
+      - "View More" Link
       - 1 sentence
    - Introduction to HIC AL
       - Image
       - 1 paragraph
+      - "View More" Link
       - Visual Menu with internal Links:
          - Main Website Sections
          - Thematic Areas
@@ -97,13 +120,15 @@
 
 - #### Academia
    - Introductory Text
-   - List of related upcoming Events
-      - Library
-         - Slider with latest Publications         
-         - Link Button
-      - Courses and Programs
-      - Featured Media
-         - Slider with Recent or Featured Media Items
-      - HICipedia:
-         - 1 Introductory paragraph
-         - Link Button
+   - Library
+      - Slider with latest Publications         
+      - Link Button
+   - Courses and Programs
+      - Current
+      - Upcoming
+      - "View More" Link
+   - Featured Media
+      - Slider with Recent or Featured Media Items
+   - HICipedia:
+      - 1 Introductory paragraph
+      - Link Button

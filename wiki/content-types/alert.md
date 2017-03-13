@@ -1,6 +1,6 @@
 # Alert
 
-**Inherits: [Urgent Information Item](../blob/master/wiki/content-types/urgent-information-item.md)**
+**Inherits: [Solidarity Content](../blob/master/wiki/content-types/solidarity-content.md)**
 
 Event or Campaign that needs public participation, and which uses the Web Platform as a central space for sharing information and facilitating social media engagement.
 
@@ -18,7 +18,7 @@ A person could create an Alert, while another person could use that information 
 
 ### Data Model:
 
-- Data Model inherited from [Urgent Information Item](../blob/master/wiki/content-types/urgent-information-item.md)
+- Data Model inherited from [Solidarity Content](../blob/master/wiki/content-types/solidarity-content.md)
 - Needs (List of one-line texts)
 - Text: How to Collaborate (hypermedia content)
 - Categories

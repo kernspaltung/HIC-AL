@@ -7,11 +7,22 @@
 - [Front Page](../blob/master/wiki/templates/front-page.md)
 - [Solidarity](../blob/master/wiki/templates/solidarity.md)
 
-- Member Areas
+- Archive
+- Calendar
+- Members
    - [Member Sign-Up](../blob/master/wiki/templates/members/member-signup.md)
    - [Member Login](../blob/master/wiki/templates/members/member-login.md)
    - [Member Welcome](../blob/master/wiki/templates/members/member-welcome.md)
    - [Member Account](../blob/master/wiki/templates/members/member-account.md)
+   - Member: Add Alert   
+   - Member: Add Alert   
+   - Member: Add UAA   
+   - Member: Add Violation Record   
+- HIC Network
+- News
+- Academia
+- Microsite
+
 
 # Content Types
 
