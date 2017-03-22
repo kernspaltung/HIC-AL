@@ -1,0 +1,48 @@
+# Templates
+
+- [General UI](../blob/master/wiki/templates/general-ui.md)
+- [Front Page](../blob/master/wiki/templates/front-page.md)
+- [Solidarity](../blob/master/wiki/templates/solidarity.md)
+- [Archive](../blob/master/wiki/templates/archive.md)
+- [Calendar](../blob/master/wiki/templates/calendar.md)
+- [Calendar List](../blob/master/wiki/templates/calendar-list.md)
+- [Members](../blob/master/wiki/templates/members/members.md)
+- [Member Profile](../blob/master/wiki/templates/members/member-profile.md)
+- [Member Sign-Up](../blob/master/wiki/templates/members/member-signup.md)
+- [Member Login](../blob/master/wiki/templates/members/member-login.md)
+- [Member Welcome](../blob/master/wiki/templates/members/member-welcome.md- [Member Account](../blob/master/wiki/templates/members/member-account.md)
+- Member: Add Content (**Still need to review which ones are relevant**)
+         - News Item
+         - Publication
+         - Document (Habitat Library)
+         - Solidarity Content
+            - Alert
+            - Urgent Action Appeals
+            - Violations (VDB)
+         - Event
+         - Media Item
+         - Course
+- News
+- Academia
+   - Glossary
+- Microsites Grid
+- Microsite
+- Content Grid
+- Thematic Area
+- Themes List
+- Theme
+- Static Page
+- Single Content Type Item
+   - News Item
+   - Publication
+   - Document (Habitat Library)
+   - Solidarity Content
+      - Alert
+      - Urgent Action Appeals
+      - Violations (VDB)
+   - Activity (?)
+   - Member
+   - Event
+   - Media Item
+   - Course
+   - HICipedia term

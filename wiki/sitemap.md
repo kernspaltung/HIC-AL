@@ -1,0 +1,43 @@
+# Sitemap
+
+- Home [->](../templates/front-page.md)
+- Solidarity [->](../templates/solidarity.md)
+   - Alerts
+   - Urgent Action Appeals
+   - Violations
+- News [->](../templates/content-grid.md)
+- Calendar [->](../templates/calendar.md)
+   - Ongoing Events and Campaigns [->](../templates/calendar-list.md)
+   - Open calls [->](../templates/calendar-list.md)
+   - Upcoming Events [->](../templates/calendar-list.md)
+- Archive (Past Activity) [->](../templates/content-grid.md)
+- Themes [->](../templates/front-page.md)
+   - Main Thematic Areas [->](../templates/thematic-area.md)
+      - Themes Listing [->](../templates/themes-list.md)
+- Members [->](../templates/members.md)
+   - Directory [->](../templates/front-page.md)
+   - Map [->](../templates/front-page.md)
+   - Account [->](../templates/front-page.md)
+      - Login [->](../templates/front-page.md)
+      - Logout [->](../templates/front-page.md)
+      - Member Dashboard [->](../templates/front-page.md)
+         - Manage Content Types allowed to Members [->](../templates/front-page.md)
+   - Activity [->](../templates/front-page.md)
+   - Suscription [->](../templates/static-page.md)
+- HIC: Coalition [->](../templates/static-page.md)
+   - HIC-AL [->](../templates/hic-al.md)
+      - Members [->](../templates/members.md)
+         - Brazil [->](../templates/brazil.md)
+
+- Library / Biblioteca [->](../templates/library.md)
+   - Publications [->](../templates/library/content-grid.md)
+   - Documents [->](../templates/library/content-grid.md)
+   - Multimedia [->](../templates/library/media.md)
+   - Publications by Others [->](../templates/library/content-grid.md)
+- Academia [->](../templates/front-page.md)
+   - Glossary [->](../templates/front-page.md)
+   - Courses [->](../templates/front-page.md)
+- Microsites [->](../templates/microsites.md)
+   - Name of Microsite 1 [->](../templates/microsite.md)
+   - Name of Microsite 2 [->](../templates/microsite.md)
+   - ...

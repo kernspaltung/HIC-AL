@@ -1,5 +1,8 @@
 # Members
 
+
+- If Member isn't logged in, show Link to Member Signup / Login
+
 - Member Directory
 
 A list of All Available Members, paginated
@@ -13,3 +16,5 @@ A list of All Available Members, paginated
       - Order chronologically
       - Filter by Country
       - Filter by Date
+
+- Member Publications

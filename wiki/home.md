@@ -1,61 +1,28 @@
-# Sitemap
+# HIC-AL
 
-# Templates
+A Web Platform for HIC-AL community, serving the regional office's communication needs, and aimed at giving featured presence to HIC-AL Members' voices in Latin America.
 
-- [General UI](../blob/master/wiki/templates/general-ui.md)
-- [Front Page](../blob/master/wiki/templates/front-page.md)
-- [Solidarity](../blob/master/wiki/templates/solidarity.md)
-- [Archive](../blob/master/wiki/templates/archive.md)
-- [Calendar](../blob/master/wiki/templates/archive.md)
-- [Members](../blob/master/wiki/templates/members/members.md)
-   - Member Templates
-      - [Member Sign-Up](../blob/master/wiki/templates/members/member-signup.md)
-      - [Member Login](../blob/master/wiki/templates/members/member-login.md)
-      - [Member Welcome](../blob/master/wiki/templates/members/member-welcome.md)
-      - [Member Account](../blob/master/wiki/templates/members/member-account.md)
-      - Member: Add Content (**Still need to review which ones are relevant**)
-         - News Item
-         - Publication
-         - Document (Habitat Library)
-         - Solidarity Content
-            - Alert
-            - Urgent Action Appeals
-            - Violations (VDB)
-         - Event
-         - Media Item
-         - Course
-- HIC Network
-- News
-- Academia
-- Microsite
-- Static Page
-- Single Contents
-   - News Item
-   - Publication
-   - Document (Habitat Library)
-   - Solidarity Content
-      - Alert
-      - Urgent Action Appeals
-      - Violations (VDB)
-   - Activity (?)
-   - Member
-   - Event
-   - Media Item
-   - Course
-   - HICipedia term
+A combination of HIC-net's editorial/informational specifications with a set of features designed with the dynamic of HIC-AL's regional Members.
 
-# Content Types
+Specific Thematic Areas within the Platform will function the status of Microsites, allowing a minimum editorial and aesthetic freedom for Microsite Maintainers to organize the contents generated in their own research.
 
-- [News Item](../blob/master/wiki/content-types/news-item.md)
-- [Publication](../blob/master/wiki/content-types/publication.md)
-- Document (Habitat Library)
-- [Solidarity Content](../blob/master/wiki/content-types/solidarity-content.md)
-   - [Alert](../blob/master/wiki/content-types/alert.md)
-   - [Urgent Action Appeals](../blob/master/wiki/content-types/urgent-action-appeal.md)
-   - Violations (VDB)
-- Activity
-- Member
-- [Event](../blob/master/wiki/content-types/event.md)
-- [Media Item](../blob/master/wiki/content-types/media-item.md)
-- Course
-- HICipedia term
+# Index
+
+- [Sitemap](../sitemap.md)
+- [Roles](../roles.md)
+- [Templates](../templates.md)
+- [Pages](../pages.md)
+- [Content Types](../content-types.md)
+- [Content Administration](../content-administration.md)
+
+### **New proposals:**
+
+- Campaign:
+
+   - A temporary content type featured on the Platform
+   - Has a public CALL 2 ACTION (in text format)
+   - Start and End Dates
+
+
+- View member-only Documents (?)
+- HIC-AL Member internal Calendar (?)
