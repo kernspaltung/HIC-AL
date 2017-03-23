@@ -17,6 +17,9 @@ The General UI is comprised of multiple Navigation Menus. Most of them have mult
             - Avatar
             - Name
          - Log-Out
+
+- Optional:[Page Scroll Menu](../blob/master/wiki/templates/shared-components/page-scroll-menu.md)
+
 - Sidebar 1
    - Themes Widget
       - Thematic Areas (4-5)
