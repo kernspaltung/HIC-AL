@@ -1,10 +1,11 @@
 # HIC-AL
 
-A Web Platform for HIC-AL community, serving the regional office's communication needs, and aimed at giving featured presence to HIC-AL Members' voices in Latin America.
+A Web Platform for HIC-AL community, serving the regional office's communication needs, and aimed at giving featured presence to HIC-AL Members' activities in Latin America.
 
-A combination of HIC-net's editorial/informational specifications with a set of features designed with the dynamic of HIC-AL's regional Members.
+The design of this platform attempts to combine global HIC network's editorial/informational specifications with a set of features designed with the dynamic of HIC-AL's regional Members in mind.
 
-Specific Thematic Areas within the Platform will function the status of Microsites, allowing a minimum editorial and aesthetic freedom for Microsite Maintainers to organize the contents generated in their own research.
+Microsites: Theme-specific Sections within the Platform called that allow some functional, editorial and aesthetic flexibility.
+
 
 # Index
 

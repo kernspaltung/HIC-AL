@@ -50,12 +50,12 @@
 # Member Organization
 
 - Manage Member Organization profile
-- Create Member specific Content
+- Create / Publish Member Organization Content
 - View internal Posts, Events, and Documents
 
 # Member Organization Person
 
-- Create Member specific Content
+- Contribute Member Organization Content (cannot Publish)
 - View internal Posts, Events, and Documents
 
 # Subscriber
