@@ -6,24 +6,40 @@ The General UI is comprised of multiple Navigation Menus. Most of them have mult
 
 
 - Top Bar:
-   - Site Menu
+   - Site Menu (Sitemap)
    - HIC
    - Member Account Buttons
-      - Member Login/Logout
-      - Member Sign-In
+      -(if not Logged In)
+         - Member Login/Logout
+         - Member Sign-In
+      -(if Logged In)
+         - Member Quick View
+            - Avatar
+            - Name
+         - Log-Out
 - Sidebar 1
    - Themes Widget
-   - Library Widget
+      - Thematic Areas (4-5)
+         - Sub-Themes
+   - Library
+      - Library Link
+         - Media
+            - Media Types
+         - Documents
+            - Document Types
 - Sidebar 2
-   - Microsites Widget
+   - Microsites
+      - Slider (2 - 3 Microsites per slide)
    - Brazil Widget
+      - Slider (posts list page slider - 2 or 3 per slide )
 - Footer
+
+   - Filter by Country / Region
+      - Map Graphic
+         - Expandable Element
+            - Country Dropdown:
+            - After selecting:
+               - Region List
    - Copyright
    - Terms and Conditions
    - Contact Information
-   - Filter by Country / Region
-      - Map Graphic
-      - Expandable Element:
-         - Country Dropdown:
-            - After selecting:
-               - Region List

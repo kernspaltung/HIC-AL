@@ -8,7 +8,7 @@
    - [Urgent Action Appeals](../blob/master/wiki/content-types/urgent-action-appeal.md)
    - Violations (VDB)
 - Activity
-- Member
+- [Member](../blob/master/wiki/content-types/member.md)
 - [Event](../blob/master/wiki/content-types/event.md)
 - [Media Item](../blob/master/wiki/content-types/media-item.md)
 - Course

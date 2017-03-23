@@ -12,17 +12,7 @@
 - [Member Login](../blob/master/wiki/templates/members/member-login.md)
 - [Member Welcome](../blob/master/wiki/templates/members/member-welcome.md)
 - [Member Account](../blob/master/wiki/templates/members/member-account.md)
-- Member: Add Content (**Still need to review which ones are relevant**)
-   - News Item
-   - Publication
-   - Document (Habitat Library)
-   - Solidarity Content
-      - Alert
-      - Urgent Action Appeals
-      - Violations (VDB)
-   - Event
-   - Media Item
-   - Course
+- [Member Add Content](../blob/master/wiki/templates/members/member-add-content.md)
 - [News](../blob/master/wiki/templates/news.md)
 - [Library](../blob/master/wiki/templates/library.md)
 - [Academia](../blob/master/wiki/templates/academia.md)
@@ -55,3 +45,5 @@
 
 - [Page Scroll Menu](../blob/master/wiki/templates/shared-components/page-scroll-menu.md)
 - [Content Grid](../blob/master/wiki/templates/shared-components/content-grid.md)
+- [Content List](../blob/master/wiki/templates/shared-components/content-list.md)
+- [Map](../blob/master/wiki/templates/shared-components/map.md)
