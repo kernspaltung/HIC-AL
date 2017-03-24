@@ -35,7 +35,7 @@
    - Multimedia [->](../templates/library/media.md)
    - Publications by Others [->](../templates/library/content-grid.md)
 - Academia [->](../templates/front-page.md)
-   - Courses [->](../templates/arhives/courses.md)
+   - Courses [->](../templates/archives/courses.md)
    - Library [->](../templates/front-page.md)
    - Glossary [->](../templates/academia.md)
 - Microsites [->](../templates/microsites.md)

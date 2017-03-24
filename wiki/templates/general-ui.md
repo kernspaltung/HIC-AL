@@ -37,12 +37,13 @@ The General UI is comprised of multiple Navigation Menus. Most of them have mult
       - Slider (posts list page slider - 2 or 3 per slide )
 - Footer
 
-   - Filter by Country / Region
+   - Footer 1: Filter by Country / Region
       - Map Graphic
          - Expandable Element
             - Country Dropdown:
             - After selecting:
                - Region List
-   - Copyright
-   - Terms and Conditions
-   - Contact Information
+   - Footer 2: Contact / Info
+      - Contact Information
+      - Copyright
+      - Terms and Conditions
