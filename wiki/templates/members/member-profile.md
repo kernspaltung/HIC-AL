@@ -18,9 +18,15 @@ Public View of Member Organization
    - Territory
    - Number of members
    - Foundation Year
+   - Tags
+   - Themes
 
 
 - Contact Information
+   - Website
+   - E-mail
+   - Social networks?
+   - Extra Contact Information ?
 
 
 - Public Calendar

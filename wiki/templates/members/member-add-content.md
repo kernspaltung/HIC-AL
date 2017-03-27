@@ -11,5 +11,6 @@
   - Urgent Action Appeals
   - Violations (VDB)
 - Event
+   - Campaign (?)
 - Media Item
 - Course

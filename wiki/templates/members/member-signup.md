@@ -1,6 +1,13 @@
 # Member Sign-Up
 
 
-- Type Address
-- Select location on Map
-- Write three Tags
+- Logo
+- Name
+- Country
+- Territory
+- Location in Map
+- Foundation year
+- Tags
+- Themes
+- Number of recent Activities
+- "View More" link

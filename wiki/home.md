@@ -19,11 +19,12 @@ Microsites: Theme-specific Sections within the Platform called that allow some f
 ### **New proposals:**
 
 - Campaign:
+   - (Subtype of [Event]((../blob/master/wiki/content-types/event.md)))
 
    - A temporary content type featured on the Platform
    - Has a public CALL 2 ACTION (in text format)
    - Start and End Dates
 
 
-- View member-only Documents (?)
-- HIC-AL Member internal Calendar (?)
+- Member Organization internal Documents (?)
+- HIC-AL Member Organization internal Calendar (?)
